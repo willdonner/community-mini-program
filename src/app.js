@@ -7,13 +7,13 @@ App({
     return 1008;
   },
   getAppName:function(){
-    return "小程序名称";
+    return "御龙半山社区";
   },
   CDNUrl:function(){
-    return "静态文件的CDN地址";
+    return "";
   },
   ServerUrl:function(){
-    return "API服务器的地址";
+    return "https://community.willdonner.top";
   },
   postFormId: function (formid) {
     var that = this;
